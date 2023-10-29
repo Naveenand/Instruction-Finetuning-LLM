@@ -1,2 +1,2 @@
 # Instruction-Finetuning-LLM
-This repository contain Instruction fine-tuning
+This repository contain Instruction fine-tuning notebooks
